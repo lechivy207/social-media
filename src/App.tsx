@@ -1080,8 +1080,8 @@ function ContactSection() {
     {
       icon: '📘',
       label: 'FACEBOOK',
-      value: 'facebook.com/lechivy.CEO',
-      href: 'https://www.facebook.com/lechivy.CEO',
+      value: 'facebook.com/Lechivyblue.agency',
+      href: 'https://www.facebook.com/Lechivyblue.agency',
       color: '#1877f2',
     },
     {
@@ -1224,7 +1224,7 @@ function Footer() {
           {['📘', '🎵', '💬', '✈️'].map((icon, index) => (
             <a
               key={index}
-              href={['https://www.facebook.com/lechivy.CEO', 'https://www.tiktok.com/@lechivy.ceo2007', 'https://zalo.me/lechivytrickervn', 'https://t.me/Lechivyvippro'][index]}
+              href={['https://www.facebook.com/Lechivyblue.agency', 'https://www.tiktok.com/@lechivy.ceo2007', 'https://zalo.me/lechivytrickervn', 'https://t.me/Lechivyvippro'][index]}
               target="_blank"
               rel="noopener noreferrer"
               className="w-9 h-9 rounded-lg glass flex items-center justify-center hover:border-neon/50 hover:text-dynamic-neon transition-all duration-300"
