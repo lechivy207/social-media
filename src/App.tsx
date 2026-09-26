@@ -379,7 +379,7 @@ function HeroSection() {
         {/* Contact chips */}
         <div className="flex flex-wrap justify-center gap-3">
           {[
-            { icon: '📘', label: 'Facebook', href: 'https://www.facebook.com/lechivy.CEO' },
+            { icon: '📘', label: 'Facebook', href: 'https://www.facebook.com/Lechivyblue.agency' },
             { icon: '🎵', label: 'TikTok', href: 'https://www.tiktok.com/@lechivy.ceo2007' },
             { icon: '💬', label: 'Zalo', href: 'https://zalo.me/lechivytrickervn' },
             { icon: '✈️', label: 'Telegram', href: 'https://t.me/Lechivyvippro' },
